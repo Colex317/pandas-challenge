@@ -28,11 +28,11 @@ The calculations indicate that spending higher ranges per student may not impact
 
 When we compare school size to average scores and percentage passing scores, we find that the small (< 1000 students) and medium (1000 – 2000) sized schools are outperforming the large (2000 – 5000) schools. 
 
-      -	The average scores of small schools are 83.8 % average Math score, 83.9% average Reading scores, and percentage overall passing score was 89.9%
+- The average scores of small schools are 83.8 % average Math score, 83.9% average Reading scores, and percentage overall passing score was 89.9%
       
-      -	Medium-sized schools had an average Math score of 83.3%, a Reading score of 83.9%, and a percentage overall passing score of 90.6%
+- Medium-sized schools had an average Math score of 83.3%, a Reading score of 83.9%, and a percentage overall passing score of 90.6%
       
-      -	Whereas large-sized schools' average Math score is 77.7%, the Reading score is 81.3%, and the percentage overall passing score is 58.2%
+- Whereas large-sized schools' average Math score is 77.7%, the Reading score is 81.3%, and the percentage overall passing score is 58.2%
           
 
 Based on the findings, one could conclude that school size plays a more significant role in students' average scores and percentage overall passing than spending ranges per student.
