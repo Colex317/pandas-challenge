@@ -1,9 +1,9 @@
-### PANDAS CHALLENGE
+# PANDAS CHALLENGE
 
 Create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 
-### Background
+## Background
 You have been asked to analyze the district-wide standardized test results and have been given access to every student's math and reading scores and various information on the schools they attend. The task is to aggregate the data to showcase obvious trends in school performance.
       1.	Create a new repository for this project called pandas-challenge. 
       2.	Clone the new repository to your computer.
@@ -12,7 +12,7 @@ You have been asked to analyze the district-wide standardized test results and h
       5.	Push these changes to GitHub or GitLab.
 
 
-### Written Report
+## Written Report
 
 **Summary of the analysis:**
 
