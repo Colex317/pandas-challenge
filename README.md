@@ -5,12 +5,6 @@ Create and manipulate Pandas DataFrames to analyze schools and standardized test
 
 ## Background
 You have been asked to analyze the district-wide standardized test results and have been given access to every student's math and reading scores and various information on the schools they attend. The task is to aggregate the data to showcase obvious trends in school performance.
-      1.	Create a new repository for this project called pandas-challenge. 
-      2.	Clone the new repository to your computer.
-      3.	Inside your local Git repository, create a folder for this homework assignment and name it PyCitySchools.
-      4.	Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-      5.	Push these changes to GitHub or GitLab.
-
 
 ## Written Report
 
