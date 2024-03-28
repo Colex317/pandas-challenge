@@ -1,6 +1,6 @@
 # PANDAS CHALLENGE
 
-Create and manipulate Pandas DataFrames to analyze school and standardized test data.
+Create and manipulate Pandas DataFrames to analyze schools and standardized test data.
 
 
 ## Background
